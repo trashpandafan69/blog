@@ -14,7 +14,7 @@ hideComments = false
 draft = false
 +++
 
-I like reading posts online and web development, and personal blog combines the best of the both worlds. I have tried to build a personal blog in the past, but I didn't stick to them in the end. I either got too busy with life or just lose passion. This year I started going to therapy, and journaling is a good way for me to put my abstract chaotic thoughts into something more concrete. As a result, I want to treat blogging as a therapy method, a log for random thoughts, or a one-sided communication to the internet. I would love to share my knowledge on some specific topics too, if anyone finds it helpful.
+I like reading posts online and web development, and personal blog combines the best of the both worlds. I have tried to build a personal blog in the past, but I didn't stick to them in the end. I either got too busy with life or just lose passion. This year I started going to therapy, and journaling is a good way for me to put my abstract chaotic thoughts into something more concrete. As a result, I want to treat blogging as a therapy method, logs for random thoughts, or an one-sided communication to the internet. I would love to share my knowledge on some specific topics too, if anyone finds it helpful.
 
 I got the name of this blog from this meme I saw recently:
 
