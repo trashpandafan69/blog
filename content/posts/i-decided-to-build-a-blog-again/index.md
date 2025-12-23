@@ -36,9 +36,7 @@ I think I should try to escape the prison by connecting with the outside world, 
 
 Finishing this with a famous English poem that I really like:
 
-> No man is an island,
->
-> Entire of itself,
+> No man is an island entire of itself,
 >
 > Every man is a piece of the continent,
 >
@@ -50,14 +48,14 @@ Finishing this with a famous English poem that I really like:
 >
 > As well as if a promontory were.
 > 
-> As well as if a manor of thy friend's
+> As well as if a manner of thy friend's
 >
 > Or of thine own were:
 >
 > Any man's death diminishes me,
 >
-> Because I am involved in mankind,
+> Because I am involved in mankind.
 > 
-> And therefore never send to know for whom the bell lls;
+> And therefore never send to know for whom the bell tolls;
 > 
 > It tolls for thee. 
