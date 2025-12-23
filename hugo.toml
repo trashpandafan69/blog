@@ -77,7 +77,7 @@ pagination.pagerSize = 5
     title = "25-year-old-thinker"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "An island"
       owner = ""
       keywords = ""
       copyright = ""
@@ -93,7 +93,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "25-year-old-thinker"
-        logoHomeLink = "/"
+        # logoHomeLink = "/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
