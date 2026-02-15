@@ -11,9 +11,9 @@ Contact: [trashpandafan69@gmail.com](mailto:trashpandafan69@gmail.com)
 ## Things I like
 
 - Thinking
-- Music
+- Music (pop, neo-soul, hip-hop, rock, garage...)
 - Raccoon
-- Drawing
+- Drawing digital/traditional art
 - Narrative-driven RPG games
 - Programming
 
