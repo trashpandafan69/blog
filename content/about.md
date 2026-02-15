@@ -6,6 +6,8 @@ title = 'About'
 
 Welcome to the 25-year-old thinker's blog.
 
+Contact: [trashpandafan69@gmail.com](mailto:trashpandafan69@gmail.com)
+
 ## Things I like
 
 - Thinking
