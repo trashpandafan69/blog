@@ -45,7 +45,7 @@ This will be a long rant cause I want to record all the injustice and frustratio
 
 The voices of immigrants in Canada are so small yet deserve to be heard. But every time an immigrant tries to bring it up, whether it is on a national public broadcaster like CBC or social media like Instagram, it just gives some Canadians another opportunity to be racist and complain about "too many Indians". Canadians think it’s a zero-sum game and immigrants are taking advantage of them, but in reality nobody is the winner in the system, immigrants have been exploited by both the government and the employers, and have been the scapegoat for every problem in this country in the past 5 years.
 
-To clarify, I have nothing against Canadian people; in contrast, I have met some of the most amazing people in this country, and it is one of the main reasons why I am so desperate to continue staying here and call it my home. However, how the government treats the immigrants and how the media portraits immigrants are extremely disappointing to see, and seem like Canadian people care about the immigration problem, but not the immigrants themselves.
+To clarify, I have nothing against Canadian people; in contrast, I have met some of the most amazing people in this country, and it is one of the main reasons why I am so desperate to continue staying here and call it my home. However, how the government treats the immigrants and how the media portraits immigrants are extremely disappointing to see, and seems like Canadian people care about the immigration problem, but not the immigrants themselves.
 
 ### Glossary
 
