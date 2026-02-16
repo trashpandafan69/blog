@@ -49,11 +49,11 @@ To clarify, I have nothing against Canadian people; in contrast, I have met some
 
 ### Glossary
 
-**PR**: Permanent residency. It is a person's legal resident status in a country or territory of which such person is not a citizen but where they have the right to reside on a permanent basis.
+**Closed work permit (employer-specific work permit)**: It is a type of work permit that allows a foreign national to work for one designated employer. You cannot change employers, jobs, or locations if you are on such a work permit.
 
 **IRCC**: Immigration, Refugees and Citizenship Canada. It is the department of the Government of Canada with responsibility for matters dealing with immigration to Canada, refugees, and Canadian citizenship.
 
-**Closed work permit (employer-specific work permit)**: It is a type of work permit that allows a foreign national to work for one designated employer. You cannot change employers, jobs, or locations if you are on such a work permit.
+**PR**: Permanent residency. It is a person's legal resident status in a country or territory of which such person is not a citizen but where they have the right to reside on a permanent basis.
 
 ### Further reading
 
