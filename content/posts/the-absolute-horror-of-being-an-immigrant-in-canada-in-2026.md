@@ -35,7 +35,7 @@ This will be a long rant cause I want to record all the injustice and frustratio
 
 10. Being gaslighted by both IRCC and other immigrants to think that “nobody deserves a PR\*” — but you do deserve to be treated as a human being with basic decency, as any other person living in this country
 
-11. Paying 3 times of the tuition fee, and being gaslighted to think that it’s reasonable because “you do not pay taxes to the Canadian government before coming here" — which is absolute bullshit because you do not receive the benefit of paying tax before coming here as well
+11. Paying 3 times of the tuition fees, and being gaslighted to think that it’s reasonable because “you do not pay taxes to the Canadian government before coming here" — which is absolute bullshit because you do not receive the benefit of paying tax before coming here as well, and you are helping Canada filling the gaps of the severely unfunded post-secondary education, which should be the government's responsibility instead of yours
 
 12. 0 power in voting and participating in politics — being “promised” by IRCC to have some type of insurance to PR, no matter it’s a direct PR pathway or indirect false advertisement, but they can revoke it anytime and you can do nothing about it — you basically live in a “democratic” state but are ruled by the government authoritatively
 
