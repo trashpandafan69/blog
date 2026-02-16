@@ -19,7 +19,7 @@ This will be a long rant cause I want to record all the injustice and frustratio
 
 2. Being asked to “assimilate to Canadian culture”—what is Canadian culture in the first place? Canadians themselves haven’t figured it out yet as well
 
-3. The bureaucracy of immigration paperwork that don't care how hard you work, and will reject you in a heartbeat due to the slightest misinformation that is not intended
+3. The bureaucracy of immigration paperwork that doesn't care how hard you work, and will reject you in a heartbeat due to the slightest misinformation that is not intended
 
 4. The power imbalance between you, IRCC\* and your employer—you cannot “have a gap year to focus on your mental health”, “quit this job and leave your abusive employers” as your Canadian peers do because you will lose your resident status
 
