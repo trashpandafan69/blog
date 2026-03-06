@@ -6,7 +6,7 @@ title = 'About'
 
 Welcome to the 25-year-old thinker's blog.
 
-Contact: [trashpandafan69@gmail.com](mailto:trashpandafan69@gmail.com)
+Contact: [email](mailto:trashpandafan69@gmail.com)
 
 ## Things I like
 
@@ -30,3 +30,7 @@ Contact: [trashpandafan69@gmail.com](mailto:trashpandafan69@gmail.com)
 - English (still working on it after knowing it for 10+ years)
 - My mental and physical health
 - Figuring out who I am and my purpose on this world
+
+## Social media
+- [rateyourmusic](https://rateyourmusic.com/~trashpandafan69)
+- [letterboxd](https://letterboxd.com/trashpandafan69/)
